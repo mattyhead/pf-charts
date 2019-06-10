@@ -1,4 +1,5 @@
 # API Key File
+config/
 ./config/api_key.txt
 ./config/aws_creds.csv
 
