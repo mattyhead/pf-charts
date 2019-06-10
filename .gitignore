@@ -1,5 +1,6 @@
 # API Key File
 ./config/api_key.txt
+./config/aws_creds.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
